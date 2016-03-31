@@ -2,3 +2,4 @@ Adding another line by Amber without knowing that the file has been updated by J
 
 Adding some changes in john's repo
 Incorporating the changes done by Amber
+Adding the lines to be merged using the fetch command from Amber's repository.
